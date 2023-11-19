@@ -15,7 +15,7 @@ const Navbar = () => {
             <Link to='/'>Home</Link>
           </li>
           <li className='hover:bg-secondary hover:shadow-lg hover:text-white p-2'>
-            <Link to='/about'>About66</Link>
+            <Link to='/about'>About</Link>
           </li>
         </ul>
       </div>
